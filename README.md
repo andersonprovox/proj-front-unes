@@ -12,10 +12,10 @@ Projeto de um web site para uma universidade fictícia no curso Desenvolvimento 
 
 ## Melhorias a serem executadas
 
-[ ] Estruturas conteúdo usando conceitos modernos de dispay flex e grid
+- [ ] Estruturas conteúdo usando conceitos modernos de dispay flex e grid
 
-[ ] Adicionar responsividade para visualização em diferentes formatos de tela
+- [ ] Adicionar responsividade para visualização em diferentes formatos de tela
 
-[ ] Adicionar conceitos de Acessibilidade para portadores de necessidades visuais
+- [ ] Adicionar conceitos de Acessibilidade para portadores de necessidades visuais
 
-[ ] Adicionar conceitos SEO para otimizar o posicionamento do site em motores de busca 
+- [ ] Adicionar conceitos SEO para otimizar o posicionamento do site em motores de busca 
